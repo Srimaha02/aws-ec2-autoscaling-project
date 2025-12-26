@@ -72,18 +72,13 @@ Copy code
 ## 📸 Project Screenshots
 
 ### ✔ Launch Template Created
-*(Upload this image to your repo and update link)*  
-`![Launch Template](screenshots/01_launch_template.png)`
+
 
 ### ✔ Auto Scaling Group Created
-`![Auto Scaling Group](screenshots/02_asg_list.png)`
 
 ### ✔ Running Instance
-`![Running Instance](screenshots/03_running_instance.png)`
 
 ### ✔ Auto-Healing in Action
-`![Termination Started](screenshots/04_termination.png)`  
-`![Replacement Instance](screenshots/05_new_instance.png)`
 
 ---
 
