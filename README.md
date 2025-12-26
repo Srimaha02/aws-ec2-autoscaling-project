@@ -30,9 +30,8 @@ You will see:
 
 ---
 
-## 📊 Architecture (Diagram)
+## 📊 Architecture Diagram
 
-> *Add your architecture diagram below once created.*
 
 +------------------------+
 | Auto Scaling Group |
